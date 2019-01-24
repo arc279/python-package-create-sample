@@ -1,0 +1,24 @@
+{
+    "_meta": {
+        "hash": {
+            "sha256": "abea5bf286b53864e93bce927c35480d456ce564753ac845b7e94094394dcfb2"
+        },
+        "pipfile-spec": 6,
+        "requires": {
+            "python_version": "2.7"
+        },
+        "sources": [
+            {
+                "name": "pypi",
+                "url": "https://pypi.org/simple",
+                "verify_ssl": true
+            }
+        ]
+    },
+    "default": {
+        "funniest": {
+            "file": "../funniest/"
+        }
+    },
+    "develop": {}
+}
